@@ -1,3 +1,12 @@
+# Cryptocurrency_Trader
+This project specifies, designs, and implements a system that supports 
+- a) defining trading brokers;
+- b) allowing each trading broker to declare interest for a list of cryptocoins they would like to obtain pricesfor; 
+- c) attaching a trading strategy to each trading broker (the logic of the trading strategy involves cryptocoin prices that the trading client has declared interest in (see point b);
+- d) retrieving cryptocoin price data from CoinGecko’s site; 
+- e) notifying each broker with the cryptocoin prices they declared interest in,
+- f) displaying on the UI the trading log and the trading activity (i.e. on a Table and on a histogram). 
+- 
 # How to run the program - 
 	1. To run this crypoTrader program, your java IDE must be 1.8 or higher.
 	2. Select src/main/java folder -> put Main.java under crytoTrader.main package as the Main class -> run.
