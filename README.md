@@ -14,8 +14,12 @@ This project specifies, designs, and implements a system that supports
 	5. To perform trade, 
 		Step 1). Before press "perform" button, you need to press "Add Row" once. IMPORTANT!
 		Step 2). After press "Add Row" once, press perform button, then the program will produce trading result.
+# Program Demos
+![25f0023dc6f101af656f9ccea80b87c](https://user-images.githubusercontent.com/106355448/200968206-2e90a2d6-f4d0-4f38-bdf1-5271abfd3ab7.png)
+![a3c4b3f49d28acdf07f001b7c5a6eaf](https://user-images.githubusercontent.com/106355448/200968210-414f0466-615f-46ef-a58b-a7a389f0c79e.png)
+![561bf504f3297c7faa5c9b6c7bef684](https://user-images.githubusercontent.com/106355448/200968212-268ae29d-0c95-47ab-a656-f29cd5e30242.png)
 
-# Something about the program -
+# notes about the program -
 
 	1. The running flow in this program is - 
 
